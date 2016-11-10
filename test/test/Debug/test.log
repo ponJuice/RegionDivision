@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\goto\documents\visual studio 2015\projects\test\test\source.cpp(144): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  test.vcxproj -> c:\users\goto\documents\visual studio 2015\Projects\test\Debug\test.exe
+  test.vcxproj -> c:\users\goto\documents\visual studio 2015\Projects\test\Debug\test.pdb (Partial PDB)
